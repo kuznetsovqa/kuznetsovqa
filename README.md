@@ -26,3 +26,5 @@ ________________
 [Порфтолио проектов которые выполнил в Яндексе, в том числе проект от реального заказчика](https://github.com/kuznetsovqa/myportfolio/blob/main/README.md)
 
 [Автотесты к API на Python](https://github.com/kuznetsovqa/yandex_api_stands_test/blob/master/README%20.md)
+
+[Ещё одни автотесты на Python](https://github.com/kuznetsovqa/autotestAPI)
