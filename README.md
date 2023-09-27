@@ -1,9 +1,10 @@
-### Hi there 👋
+# Привет! Я Вова 👋
 
-![Readme](https://github.com/kuznetsovqa/blob/main/Снимок%20экрана%202023-09-27%20в%2016.44.48.png)
+## Начинающий QA ENGINEER
 
-<!--
-**kuznetsovqa/kuznetsovqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Картинка](https://github.com/kuznetsovqa/kuznetsovqa/blob/main/QA%20ENGINEER.png)
+
+
 
 Here are some ideas to get you started:
 
