@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Readme](https://github.com/kuznetsovqa/blob/main/Снимок%20экрана%202023-09-27%20в%2016.44.48.png)
+
 <!--
 **kuznetsovqa/kuznetsovqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
