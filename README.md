@@ -14,7 +14,7 @@
 Обожаю спорт и все что с ним связано :runner:* 
 
 Веду свой скромный дневник по своему обучению тестированию:
-[группа вк](https://vk.com/dnevnikqa) и [телеграм канал](https://t.me/dnevnikqa).
+[группа VK](https://vk.com/dnevnikqa) и [telegram канал](https://t.me/dnevnikqa).
 
 **Связь со мной:**
 
